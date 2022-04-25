@@ -1,0 +1,1 @@
+// responsable for displaying static pages, (not blog post or blog archives) an about page would be a static page.
